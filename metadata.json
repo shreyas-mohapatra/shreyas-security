@@ -1,0 +1,6 @@
+{
+  "name": "SecureTrust AI - AI Security, Privacy & Trust Platform",
+  "description": "Production-grade AI Security, Privacy & Trust platform to audit prompts, detect injections and PII leaks, enforce compliance, and monitor threat intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
